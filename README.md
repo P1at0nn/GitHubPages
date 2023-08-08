@@ -1,0 +1,18 @@
+#***ЛИЧНОЕ***
+
+
+![фото](https://lh3.googleusercontent.com/pw/AIL4fc9c2wpTaNsyL2UbItNedFx0-MBuGPwusc676iiZfgSzkNqyjPOZEVjMOQqPweEiq8thdzQ7QJYKO8lH0tW1_PyBLqpj8VlYTKPiamWttFQSxxL8w5w8xWnHGVo1AwcwrjhDOpwe5qm2Vd6vcDN6hH3oamiUjxPQmP_RsOb4hd0NwkJ_C0fduJIfkeABYgYr4bHC1x3BJkEYSqDGHg1yf3x8n5BSXtDboFzX9Z6D8qjAXsxhxe0LyAbth1mKLuDSSVgIYSmYyPNipSTZzhzyZj4R2vzBcpLEhPow3cDkG4nIwf0JtVo2hEvS3EyFpUxJf8Hf_bG3Gt350UQX3FLOGxmvvfaRrm_ApkOIsLwt-rLRXjSqHZqFQubE1usTPIpKhbMvdyzoPI-pGGSbrBgdxzj1sjtWS3srGQDGqpz56EQH2DfXeIwhMl5N4hbAwQjvSPgPjhRL1fXN4DUcC9YkKkPS5tX_Ylz2-8da0VLwrdMkouf1C-jLe43H5RtgghvLUMKlCuW0nl9z1SeTy0wY6lVq_7qNDgIxBl50SUN0G8ZHVL2TDz5hSEZYsaaVJp1GZVA48BsJsEKgaFyOfljZv3vbuHpJ054eHcK2juQeN_BoBawtzroLooD3XiN9o3HMOfI9R2yhvD4w3ZqiqEyNVJsLopIo-9yktTubxXckOnJS-xLmV9jvlWeCqMI3Um_uXt60pMnMQIAjdaWZT_YsQsPOAUDeoUSH2bCtWLiT59iNCn7N1rF9ZQcqa1H2XjI3_ujMWuXs4a5oYEts1er5QUcL9fJbjr_lhZHsY2hudY9G9Vnjj5HOs4VGeMlIjSchZQQEmlEOx8im3J9Jd_Y6GD5dMjxEPXz1QUbdIOVejsacG3xc71nbiuIhUW8Z-9PCrYIvXugrbOH_ZvUKiseS0REO3AI=w1219-h914-s-no?authuser=0)
+
+_Дата рождения_ : 1996.06.07
+
+_Город_ : Москва
+
+***
+
+#***Учеба***
+
+ netology.ru
+_Курс обучения_ : GIT-77Android-разработчик с нуля
+Git — система контроля версий
+
+ ![netology.ru](https://s3.mooc.ru/prod/%D0%91%D0%BB%D0%BE%D0%B3%20MOOC/1AaVvcDxkH4.jpg)
